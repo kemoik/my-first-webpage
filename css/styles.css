@@ -1,0 +1,19 @@
+h1{
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: green;
+  font-style: oblique;
+  text-align: center;
+}
+p {
+  font-family: serif;
+  font-weight: bolder;
+  font-size: 20px;
+  font-kerning: auto;
+  line-height: inherit;
+}
+ul {
+  line-height: 40px;
+}
